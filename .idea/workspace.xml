@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="317cdb6c-cd9f-46d4-ae70-abc9337e9947" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1rto2t461dHE1fRBQ8P3rCMwQfS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="317cdb6c-cd9f-46d4-ae70-abc9337e9947" name="Default Changelist" comment="" />
+      <created>1619804542402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619804542402</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="110" y="120" width="1060" height="440" key="AVDManager" timestamp="1619805435584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="110" y="120" width="1060" height="440" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1619805435584" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1619805146755">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1619805146755" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1619805761016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1619805761016" />
+  </component>
+</project>
